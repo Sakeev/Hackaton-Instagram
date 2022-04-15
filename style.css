@@ -1,0 +1,36 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #6b3bc3;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.navbar{
+    overflow: hidden;
+}
+
+body{ 
+    color: white; 
+    background-image:  
+    url('http://lotofcolor.com/wp-content/uploads/2020/11/Tablet-image.jpg'); 
+} 
+.main-img{ 
+    width: 250px; 
+    height: 250px; 
+    border-radius: 50%; 
+    margin-right: 50px; 
+    margin-top: 20px; 
+     
+} 
+ 
+.p-1 { 
+    width: 400px;
+    color: rgb(255, 255, 255);
+}
+
+p { 
+    color: black;
+}
